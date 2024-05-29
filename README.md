@@ -1,4 +1,4 @@
-# UAC2L (Under Review)
-The Pytorch implementation code of Uncertainty-aware Cross Contrastive Learning for Semi-supervised  Medical Image Segmentation
+# UARC (Neurocomputing 2024)
+Uncertainty-aware representation calibration for semi-supervised medical imaging segmentation
 
-The code will be avaliable after acceptance.
+The code will be avaliable soon.
